@@ -3,17 +3,13 @@
 import os
 
 def saludo():#Saludo
-    print("\n== == == AMAZONAS - T2 IIC1103 == == ==")
-    print("Bienvenido a Amazonas!")
+    print("\n== == == AMAZONAS - T2 IIC1103 == == == \n Bienvenido a Amazonas!")
 
 def opciones_inicio():#Muestra las opciones de inicio
-    print("\nLas opciones de inicio son:")
-    print("1 Empezar nuevo tablero")
-    print("2 Cargar partida guardada")
+    print("\nLas opciones de inicio son: \n 1 Empezar nuevo tablero \n 2 Cargar partida guardada")
 
 def despedida(ganador):#Para cuando se acaba el juego
-    print("\n== == == AMAZONAS - T2 IIC1103 == == ==")
-    print("Se ha acabado el juego")
+    print("\n== == == AMAZONAS - T2 IIC1103 == == == \nSe ha acabado el juego")
     print("El ganador es", ganador)
 
 def cambiar_columna(ingreso):#Para convertir desde el archivo de texto
