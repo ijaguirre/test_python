@@ -1,6 +1,7 @@
 # Se recomienda ejecutar el juego en IDLES como PyCharm, www.replit.com, etc. Excepto IDLE Python 3.5.2
 import os
-
+#author = Ignacio Aguirre 
+#Context = IIC1103
 
 def saludo():
     print(
