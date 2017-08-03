@@ -1,7 +1,7 @@
 #POO y Funciones
 def saludo():
-    print ("== == == AMAZONAS - T2 IIC1103 == == ==")
-    print ("Bienvenido a Amazonas!")
+    print ("== == == AMAZONAS - T2 IIC1103 == == == \n Bienvenido a Amazonas!")
+    
 def opciones_inicio():
     print("")
     print("Las opciones de inicio son:")
