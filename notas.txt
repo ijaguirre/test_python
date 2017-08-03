@@ -1,0 +1,30 @@
+Notas:
+
+En un mismo turno se pueden hacer ambas
+El jugador mueve 1 amazonas, en magnitud y dirección que quiera. Solo un input por amazona!
+Solo se pueden disparar flechas desde la posición de la amazona
+Se lanza una flecha, magnitud y direccion que quiera
+
+ninguna pieza puede pasar por encima de otra pieza. Un movimiento es valido cuando se completan las dos partes. Si en un turno no se pueden hacer ambas, entonces se pierde!
+
+En que momento se le pregunta a la persona si quiere guardar?
+Cuanta
+
+solucionar el problema de revisar si el input esta bien ingresado!!!! Si se ingresa al revez u otra cosa!
+
+cuando debo preguntarles si quieren guardar
+pueden salirse del juego
+
+Tiene solo una oportunidad en el juego?
+
+¿Quéhacer con el problema de visualización?	
+
+En caso de no ser una jugada válida por ser un movimiento erróneo, entonces se le debe pedir
+nuevamente otro movimiento. Si la jugada no es válida por ser un lanzamiento erróneo (pero un
+movimiento correcto), entonces se le debe pedir nuevamente las coordenadas para el lanzamiento,
+tomando en cuenta que la celda de inicio es la celda a la que se movió la amazonas previamente. En
+ambos casos se le dice al jugador si fue válido o no su lanzamiento o movimiento. ¿Cuantas oportunidades
+
+Cuantas oportunidades de ingresar bien las cosas debo entregar?
+
+Puede moverse de forma no diagonal, en un mismo turno
